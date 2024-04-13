@@ -1,5 +1,5 @@
 langchain
 langchain-text-splitters
 langchain_google_genai
-pinecone-client
+langchain-chroma
 pypdf
